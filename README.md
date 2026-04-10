@@ -28,6 +28,7 @@ Demonstrar uma pipeline simples, organizada e pronta para portfólio, usando boa
 - logging
 - separação de responsabilidades
 - persistência em banco
+<img width="1323" height="758" alt="image" src="https://github.com/user-attachments/assets/dc80ea55-63b7-4bf4-b707-807be7bd1840" />
 
 ## Fonte de dados
 
