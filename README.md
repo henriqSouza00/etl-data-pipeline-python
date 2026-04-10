@@ -39,6 +39,9 @@ API pública do IBGE:
 
 ```text
 etl-data-pipeline-python/
+├──dashboard/
+     ├── dashboard_estados.pdf
+     ├── dashboard_estados.pbix
 ├── data/
 ├── sql/
 │   └── analysis_queries.sql
