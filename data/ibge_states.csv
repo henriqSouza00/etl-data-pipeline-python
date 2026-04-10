@@ -1,0 +1,28 @@
+﻿state_id,state_name,state_abbr,region_id,region_abbr,region_name,capitalized_state_name,name_length,ingestion_date,source
+53,Distrito Federal,DF,5,CO,Centro-Oeste,Distrito Federal,16,2026-04-10,IBGE API
+52,Goiás,GO,5,CO,Centro-Oeste,Goiás,5,2026-04-10,IBGE API
+51,Mato Grosso,MT,5,CO,Centro-Oeste,Mato Grosso,11,2026-04-10,IBGE API
+50,Mato Grosso do Sul,MS,5,CO,Centro-Oeste,Mato Grosso Do Sul,18,2026-04-10,IBGE API
+27,Alagoas,AL,2,NE,Nordeste,Alagoas,7,2026-04-10,IBGE API
+29,Bahia,BA,2,NE,Nordeste,Bahia,5,2026-04-10,IBGE API
+23,Ceará,CE,2,NE,Nordeste,Ceará,5,2026-04-10,IBGE API
+21,Maranhão,MA,2,NE,Nordeste,Maranhão,8,2026-04-10,IBGE API
+25,Paraíba,PB,2,NE,Nordeste,Paraíba,7,2026-04-10,IBGE API
+26,Pernambuco,PE,2,NE,Nordeste,Pernambuco,10,2026-04-10,IBGE API
+22,Piauí,PI,2,NE,Nordeste,Piauí,5,2026-04-10,IBGE API
+24,Rio Grande do Norte,RN,2,NE,Nordeste,Rio Grande Do Norte,19,2026-04-10,IBGE API
+28,Sergipe,SE,2,NE,Nordeste,Sergipe,7,2026-04-10,IBGE API
+12,Acre,AC,1,N,Norte,Acre,4,2026-04-10,IBGE API
+16,Amapá,AP,1,N,Norte,Amapá,5,2026-04-10,IBGE API
+13,Amazonas,AM,1,N,Norte,Amazonas,8,2026-04-10,IBGE API
+15,Pará,PA,1,N,Norte,Pará,4,2026-04-10,IBGE API
+11,Rondônia,RO,1,N,Norte,Rondônia,8,2026-04-10,IBGE API
+14,Roraima,RR,1,N,Norte,Roraima,7,2026-04-10,IBGE API
+17,Tocantins,TO,1,N,Norte,Tocantins,9,2026-04-10,IBGE API
+32,Espírito Santo,ES,3,SE,Sudeste,Espírito Santo,14,2026-04-10,IBGE API
+31,Minas Gerais,MG,3,SE,Sudeste,Minas Gerais,12,2026-04-10,IBGE API
+33,Rio de Janeiro,RJ,3,SE,Sudeste,Rio De Janeiro,14,2026-04-10,IBGE API
+35,São Paulo,SP,3,SE,Sudeste,São Paulo,9,2026-04-10,IBGE API
+41,Paraná,PR,4,S,Sul,Paraná,6,2026-04-10,IBGE API
+43,Rio Grande do Sul,RS,4,S,Sul,Rio Grande Do Sul,17,2026-04-10,IBGE API
+42,Santa Catarina,SC,4,S,Sul,Santa Catarina,14,2026-04-10,IBGE API
