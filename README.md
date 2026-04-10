@@ -1,5 +1,17 @@
 # ETL Data Pipeline with Python
 
+## 📊 Dashboard Power BI
+
+O projeto inclui um dashboard desenvolvido no Power BI para visualização dos dados tratados na pipeline ETL.
+
+### Principais análises:
+- Distribuição de estados por região
+- Total de estados
+- Comparação entre regiões
+
+Arquivo disponível em:
+`/dashboard/dashboard_estados.pbix`
+
 Projeto de portfólio focado em **Data Engineering**, com pipeline ETL completo:
 
 - **Extract**: consome dados da API pública do IBGE
